@@ -72,7 +72,7 @@ src/main/java/
     │   └── DataRestController.java         # Exposes repository as REST API
     │
     └── CustomerServiceApplication.java     # Main class to run the Spring Boot application
-
+```
 
 ### Package Descriptions
 
