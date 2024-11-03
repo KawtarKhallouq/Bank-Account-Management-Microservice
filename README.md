@@ -98,7 +98,6 @@ src/main/java/
 ### Database Configuration
 The project uses an in-memory H2 database. You can access the H2 console at `http://localhost:8080/h2-console` once the application is running.
 
----
 
 ## How to Run
 
@@ -107,7 +106,7 @@ To start the application, run:
 mvn spring-boot:run
 
 The application will be available at http://localhost:8080.
-
+```
 **## API Documentation**
 Swagger UI: Visit http://localhost:8080/swagger-ui.html for REST API documentation and testing.
 GraphQL Playground: You can access the GraphQL API at http://localhost:8080/graphql.
